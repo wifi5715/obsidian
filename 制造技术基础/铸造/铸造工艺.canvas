@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"a4553fde154dbb2d","type":"text","text":"浇不到或[[铸造#冷隔|冷隔]]；\n存在气体和非金属家夹杂物；\n轮廓尺寸不精确，轮廓不清晰。\n","x":1180,"y":-1472,"width":400,"height":100},
-		{"id":"8fb78448b031d746","type":"text","text":"[[铸造#液态合金的充型能力|充型能力]]","x":700,"y":-886,"width":250,"height":60},
 		{"id":"5025f3bbfb419b84","type":"text","text":"[[铸造#合金的流动性|流动性]]","x":320,"y":-717,"width":125,"height":60},
 		{"id":"b944581d9b7165e3","type":"text","text":"==纯金属和共晶成分合金==的结晶是在恒温（范围最窄）下进行的，已结晶的内表面比较光滑，对金属液的流动阻力较小，有利于合金填充型腔。\n","x":2110,"y":-1640,"width":379,"height":110},
 		{"id":"fe9739c5dfbb00af","type":"text","text":"化学成分","x":1810,"y":-1440,"width":200,"height":50},
@@ -56,20 +55,20 @@
 		{"id":"e9496d0727957ae9","type":"text","text":"[[铸造#收缩|收缩性]]","x":320,"y":320,"width":125,"height":60},
 		{"id":"624cc60edff18f2d","type":"text","text":"[[铸造#线收缩率|线收缩率]]","x":476,"y":0,"width":127,"height":50},
 		{"id":"af8501530bd516c6","type":"text","text":"[[铸造#体收缩率|体收缩率]]","x":317,"y":2,"width":132,"height":50},
-		{"id":"3730b96b400748b3","type":"text","text":"==*流动性*==越好，充型能力越强；\n有利于非金属夹杂物和气体的上浮与排出；\n有利于对合金冷凝过程产生的收缩进行补缩。","x":1180,"y":-1247,"width":400,"height":103},
 		{"id":"4a8e5c9f92bb46c0","type":"file","file":"制造技术基础/res/合金收缩.png","x":645,"y":-85,"width":119,"height":170},
-		{"id":"c364f8c8a6a12c3c","type":"text","text":"表现为合金体积的缩减，用体积收缩量表示。产生缩孔或缩松的基本原因。","x":881,"y":150,"width":281,"height":100},
-		{"id":"6d7a3536d9552003","type":"text","text":"[[铸造#缩孔|缩孔]]","x":1253,"y":119,"width":95,"height":50},
-		{"id":"187df8cbf17245b9","type":"text","text":"[[铸造#缩松|缩松]]","x":1253,"y":229,"width":95,"height":60},
+		{"id":"c364f8c8a6a12c3c","type":"text","text":"表现为合金体积的缩减，用体积收缩量表示。==产生缩孔或缩松的基本原因==。","x":881,"y":150,"width":281,"height":100},
 		{"id":"42a718b66cde1c29","type":"text","text":"[[铸造#定向凝固|定向凝固（顺序凝固）]]：[[铸造#冒口|冒口]]、[[铸造#冷铁|冷铁]]。","x":2127,"y":144,"width":250,"height":94},
 		{"id":"649a057908447575","type":"text","text":"==逐层凝固合金==：（纯金属、共晶合金或结晶温度范围窄的合金）的==缩孔倾向大，缩松倾向小==；\n反之，==糊状凝固的合金缩孔倾向虽小，但非常容易产生缩松==。","x":1440,"y":148,"width":512,"height":90},
 		{"id":"5c29f15f7a903ddd","type":"text","text":"尺寸上缩减，单位长度收缩量。导致铸件形状、尺寸变化，产生应力和变形甚至产生裂纹。","x":881,"y":305,"width":299,"height":91},
-		{"id":"d4240365c80d0154","type":"text","text":"铸件在凝固之后的继续冷却过程中，其固态收缩若受到阻碍，铸件内部将产生内应力（铸造应力）。是铸件变形和裂纹的基本原因。","x":1280,"y":305,"width":400,"height":91},
-		{"id":"a23a1da28eca9d3a","type":"text","text":"[[铸造#临时应力|临时应力]]","x":1760,"y":280,"width":145,"height":50},
-		{"id":"821d9eefca919e6c","type":"text","text":"[[铸造#残余内应力|残余内应力]]","x":1760,"y":371,"width":145,"height":50},
-		{"id":"5b5554256d4cb6b7","type":"text","text":"铸造内应力是铸件产生变形和裂纹的基本原因。","x":1980,"y":311,"width":240,"height":85},
-		{"id":"514b1af7798f9620","x":2310,"y":281,"width":134,"height":60,"type":"text","text":"[[铸造#热应力|热应力]]"},
-		{"id":"79a32b2e2f0670c7","x":2310,"y":366,"width":134,"height":60,"type":"text","text":"机械应力"}
+		{"id":"3730b96b400748b3","type":"text","text":"==*流动性*==越好，充型能力越强；\n有利于非金属夹杂物和气体的上浮与排出；\n有利于对合金冷凝过程产生的收缩进行补缩。","x":1230,"y":-1260,"width":400,"height":103},
+		{"id":"8fb78448b031d746","type":"text","text":"[[铸造#液态合金的充型能力|充型能力]]","x":700,"y":-920,"width":250,"height":60},
+		{"id":"6d7a3536d9552003","type":"text","text":"[[铸造#缩孔|缩孔]]","x":1253,"y":137,"width":95,"height":27},
+		{"id":"187df8cbf17245b9","type":"text","text":"[[铸造#缩松|缩松]]","x":1253,"y":237,"width":95,"height":27},
+		{"id":"a23a1da28eca9d3a","type":"text","text":"[[铸造#临时应力|临时应力]]","x":1257,"y":292,"width":145,"height":27},
+		{"id":"821d9eefca919e6c","type":"text","text":"[[铸造#残余内应力|残余内应力]]","x":1257,"y":383,"width":145,"height":27},
+		{"id":"514b1af7798f9620","type":"text","text":"[[铸造#热应力|热应力]]","x":1807,"y":278,"width":134,"height":60},
+		{"id":"79a32b2e2f0670c7","type":"text","text":"机械应力","x":1807,"y":363,"width":134,"height":60},
+		{"id":"5b5554256d4cb6b7","type":"text","text":"铸造内应力是铸件产生==变形和裂纹==的基本原因。","x":1477,"y":308,"width":240,"height":85}
 	],
 	"edges":[
 		{"id":"6b379936ed09511d","fromNode":"77046eb22bb6ba04","fromSide":"right","toNode":"5025f3bbfb419b84","toSide":"left"},
@@ -143,12 +142,11 @@
 		{"id":"a9a2070fe1c255af","fromNode":"187df8cbf17245b9","fromSide":"right","toNode":"649a057908447575","toSide":"left"},
 		{"id":"145f19047e8c4f9d","fromNode":"649a057908447575","fromSide":"right","toNode":"42a718b66cde1c29","toSide":"left","label":"解决方法"},
 		{"id":"645ff2515f4414a1","fromNode":"2b3ac08b55a7361b","fromSide":"right","toNode":"5c29f15f7a903ddd","toSide":"left"},
-		{"id":"74e25806e62c3d3a","fromNode":"5c29f15f7a903ddd","fromSide":"right","toNode":"d4240365c80d0154","toSide":"left","label":"冷却"},
-		{"id":"e2d467b5bc7549d2","fromNode":"d4240365c80d0154","fromSide":"right","toNode":"a23a1da28eca9d3a","toSide":"left"},
-		{"id":"00fe23a8e101e838","fromNode":"d4240365c80d0154","fromSide":"right","toNode":"821d9eefca919e6c","toSide":"left"},
 		{"id":"08016f0bc1676cf2","fromNode":"a23a1da28eca9d3a","fromSide":"right","toNode":"5b5554256d4cb6b7","toSide":"left"},
 		{"id":"b1a1e0c77f09e590","fromNode":"821d9eefca919e6c","fromSide":"right","toNode":"5b5554256d4cb6b7","toSide":"left"},
 		{"id":"1c01b56555126727","fromNode":"5b5554256d4cb6b7","fromSide":"right","toNode":"514b1af7798f9620","toSide":"left"},
-		{"id":"c2613d7a4c398ca3","fromNode":"5b5554256d4cb6b7","fromSide":"right","toNode":"79a32b2e2f0670c7","toSide":"left"}
+		{"id":"c2613d7a4c398ca3","fromNode":"5b5554256d4cb6b7","fromSide":"right","toNode":"79a32b2e2f0670c7","toSide":"left"},
+		{"id":"0cc4cecb9ce50243","fromNode":"5c29f15f7a903ddd","fromSide":"right","toNode":"a23a1da28eca9d3a","toSide":"left"},
+		{"id":"c8518cfaebcedcdf","fromNode":"5c29f15f7a903ddd","fromSide":"right","toNode":"821d9eefca919e6c","toSide":"left"}
 	]
 }
